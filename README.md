@@ -3,7 +3,7 @@ $ whoami
 Aclerson Rodrigues da Silva
 
 $ cat about.txt
-A passionate developer.
+Passionate game developer turning ideas into immersive experiences. From crafting intricate game mechanics to bringing worlds to life, I thrive on creativity and innovation.
 
 $ pwd
 Pará, Brazil @ 
@@ -12,13 +12,13 @@ $ ls skills/
 C++ | Typescript | C# | Unity | Godot | React | Django | ASP.NET
 
 $ cat learning.txt
-C++ and ASP.NET
+Diving deeper into C++ and ASP.NET to enhance my game development skills and broaden my tech toolkit.
 
 $ cat interests.txt
-Game Development
+Game Development, C++ programming, or game design principles.
 
 $ fortune
-I love BREAD! 
+I'm a bread enthusiast. ask me about my favorite types of bread!
 ```
 
 ---
